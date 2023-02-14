@@ -32,6 +32,6 @@
 > ### What are variablies?
 >Variables are containers for storing data (storing data values).
 >### There are three variable in javascript:
-1. * Var. (If you want your code to run in older browsers, you must use var.)
-2. * Let. (If you think the value of the variable can change, use let.)
+1. --Var.-- (If you want your code to run in older browsers, you must use var.)
+2. Let. (If you think the value of the variable can change, use let.)
 3. Const.(If you want a general rule: always declare variables with const.)
