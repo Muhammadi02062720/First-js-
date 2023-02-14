@@ -28,3 +28,8 @@
 > ![](/images/Types-of-data-types-in-JS.jpg)
 
 > # JavaScript Variables...
+
+> ### What are variablies?
+>Variables are containers for storing data (storing data values).
+>### There are three variable in javascript:
+1. 
