@@ -22,3 +22,7 @@
 >These data types are pretty simple, and are sometimes treated as the lowest level of implementation of a programming language. They are not objects, and do not have methods.
 
 ![](/images/Screenshot_4.png)
+
+> # Type of object(non-primitive) and primitive
+
+>![](https://yandex.ru/images/search?from=tabbar&text=type%20of%20object%20in%20js&pos=7&img_url=http%3A%2F%2Fusemynotes.com%2Fwp-content%2Fuploads%2F2021%2F04%2FTypes-of-data-types-in-JS.jpg&rpt=simage&lr=10318)
