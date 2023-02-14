@@ -11,3 +11,6 @@
 2. Using Node.js
 3. By creating web pages
 
+> # what is an object in javascript?
+
+>The Object type represents one of JavaScript's data types. It is used to store various keyed collections and more complex entities. Objects can be created using the Object() constructor or the object initializer / literal syntax.
