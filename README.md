@@ -7,6 +7,6 @@
 
 #### Because of its wide range of applications, you can run JavaScript in several ways:
 
-1 Using console tab of web browsers
-2 Using Node.js
-3 By creating web pages
+1. Using console tab of web browsers
+2. Using Node.js
+3. By creating web pages
