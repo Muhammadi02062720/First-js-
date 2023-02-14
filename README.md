@@ -16,6 +16,4 @@
  1. >It only takes a few clicks to open the console in whatever browser you are employing, and you can also start it by using shortcuts or hotkeys.(press F12)
  2.  >Open the developer tools and go to Console tab. Write the Javascript code and press Enter
 
- ![](/images/Screenshot_1.png)
- 
- ![](https://yandex.ru/images/search?from=tabbar&text=Using%20Console%20Tab%20of%20Web%20Browsers&pos=0&img_url=http%3A%2F%2Fprogramiz.com%2Fsites%2Ftutorial2program%2Ffiles%2Fconsole-tab-browser.png&rpt=simage&lr=10318)
+ ![](/images/Screenshot_1.png) ![](https://yandex.ru/images/search?from=tabbar&text=Using%20Console%20Tab%20of%20Web%20Browsers&pos=0&img_url=http%3A%2F%2Fprogramiz.com%2Fsites%2Ftutorial2program%2Ffiles%2Fconsole-tab-browser.png&rpt=simage&lr=10318)
