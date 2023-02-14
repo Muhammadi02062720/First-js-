@@ -11,11 +11,3 @@
 2. Using Node.js
 3. By creating web pages
 
-> 1. # Using Console Tab of Web Browser
-
- 1. >It only takes a few clicks to open the console in whatever browser you are employing, and you can also start it by using shortcuts or hotkeys.(press F12)
- 2.  >Open the developer tools and go to Console tab. Write the Javascript code and press Enter
-
- ![](/images/Screenshot_1.png) 
- 
- ![](/images/Screenshot_2.png)
