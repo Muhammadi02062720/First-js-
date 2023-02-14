@@ -25,6 +25,6 @@
 
 > # Type of object(non-primitive) and primitive
 
->![](/images/Types-of-data-types-in-JS.jpg
+> ![](/images/Types-of-data-types-in-JS.jpg
 
 > # JavaScript Variables...
