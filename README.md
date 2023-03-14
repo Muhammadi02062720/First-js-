@@ -43,3 +43,7 @@
 >### LOGICal OPERATORS:
 
  ![](/images/Screenshot_8.png)
+
+> ### CONDITION If/else statement
+ 
+ ![](/images/Screenshot_9.png)
