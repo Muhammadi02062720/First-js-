@@ -55,3 +55,9 @@
 >### FUNCTIONS in js
 
  ![](/images/Screenshot11_.png)
+
+>##### There are 3 ways of writing a function in JavaScript
+
+ 1. Function Declaration
+ 2. Function Expression
+ 3. Immediately Invoked Function Expression
