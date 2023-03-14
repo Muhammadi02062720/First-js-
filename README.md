@@ -47,3 +47,7 @@
 > ### CONDITION If/else statement
  
  ![](/images/Screenshot_9.png)
+
+> ### LOOP for
+
+ ![](/images/Screenshot_10.png)
