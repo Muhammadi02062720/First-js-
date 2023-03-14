@@ -61,3 +61,8 @@
  1. Function Declaration
  2. Function Expression
  3. Immediately Invoked Function Expression
+
+
+1. >### Function Declaration
+
+ ![](/images/Screenshot_12.png)
