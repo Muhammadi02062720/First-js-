@@ -35,3 +35,7 @@
 1. Var. (If you want your code to run in older browsers, you must use var.)
 2. Let. (If you think the value of the variable can change, use let.)
 3. Const.(If you want a general rule: always declare variables with const.)
+
+>### Operators IN JavaScript
+
+ ![](/images/Screenshot_7.png)
