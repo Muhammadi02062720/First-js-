@@ -39,3 +39,7 @@
 >### Operators IN JavaScript
 
  ![](/images/Screenshot_7.png)
+
+>### LOGICal OPERATORS:
+
+ ![](/images/Screenshot_8.png)
