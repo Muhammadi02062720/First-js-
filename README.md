@@ -72,3 +72,7 @@
     ![](/images/Screenshot_13.png)
 
     ![](/images/Screenshot_14.png)
+
+3. Immediately Invoked Function Expression
+ 
+   ![](/images/Screenshot_15.png)
