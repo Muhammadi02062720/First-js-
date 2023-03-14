@@ -51,3 +51,7 @@
 > ### LOOP for
 
  ![](/images/Screenshot_10.png)
+
+>### FUNCTIONS in js
+
+ ![](/images/Screenshot11_.png)
