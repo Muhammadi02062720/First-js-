@@ -21,7 +21,7 @@
 
 >These data types are pretty simple, and are sometimes treated as the lowest level of implementation of a programming language. They are not objects, and do not have methods.
 
-![](/images/Screenshot_4.png)
+![](/images/Screenshot_6.png)
 
 > # Type of object(non-primitive) and primitive
 
