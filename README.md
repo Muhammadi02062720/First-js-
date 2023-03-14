@@ -21,11 +21,11 @@
 
 >These data types are pretty simple, and are sometimes treated as the lowest level of implementation of a programming language. They are not objects, and do not have methods.
 
-![](/images/Screenshot_6.png)
+![](/images/Screenshot_4.png)
 
 > # Type of object(non-primitive) and primitive
 
-> ![](/images/Types-of-data-types-in-JS.jpg)
+> ![](/images/Screenshot_6.png)
 
 > # JavaScript Variables...
 
