@@ -66,3 +66,7 @@
 1. >### Function Declaration
 
  ![](/images/Screenshot_12.png)
+
+2. >### Function Expression
+
+ ![](/images/Screenshot_13.png)
