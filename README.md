@@ -69,4 +69,6 @@
 
 2. >### Function Expression
 
- ![](/images/Screenshot_13.png)
+   1. ![](/images/Screenshot_13.png)
+
+   2. ![](/images/Screenshot_14.png)
